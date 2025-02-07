@@ -1,7 +1,7 @@
-package InheritExam;
+package inheritExam;
 
-public class ParentAclls {
-	
+public class ParentA
+{
 	public void add()
 	{
 		int a=10;
@@ -9,5 +9,4 @@ public class ParentAclls {
 		int c=a+b;
 		System.out.println("The sum is"+" "+c);
 	}
-
 }

@@ -1,4 +1,4 @@
-package InheritExam;
+package inheritExam;
 
 
  class InheriExamp1 extends ParentA 

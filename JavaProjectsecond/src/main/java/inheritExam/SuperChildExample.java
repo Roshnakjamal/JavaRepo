@@ -1,4 +1,4 @@
-package InheritExam;
+package inheritExam;
 
 public class SuperChildExample extends SuperExample{
 	String colour="Yellow";

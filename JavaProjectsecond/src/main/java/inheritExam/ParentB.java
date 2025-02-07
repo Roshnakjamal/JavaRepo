@@ -1,4 +1,4 @@
-package InheritExam;
+package inheritExam;
 
 public class ParentB {
 	public void sub()
