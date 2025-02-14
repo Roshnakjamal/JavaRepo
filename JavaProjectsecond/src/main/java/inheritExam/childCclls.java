@@ -16,6 +16,8 @@ public class childCclls extends ParentBclls
 		obj1.add();
 		obj1.sub();
 		obj1.sub1();
+		ParentBclls obj2=new ParentBclls();
+		obj2.sub();
 	}
 
 }

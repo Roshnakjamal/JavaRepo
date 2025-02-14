@@ -8,6 +8,7 @@ package inheritExam;
 		// TODO Auto-generated method stub
 		InheriExamp1 obj1=new InheriExamp1();
 		obj1.add();
+		
 	}
 
 }
