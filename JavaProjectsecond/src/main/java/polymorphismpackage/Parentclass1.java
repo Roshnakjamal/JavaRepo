@@ -1,6 +1,6 @@
 package polymorphismpackage;
 
-public class parentclass1 {
+public class Parentclass1 {
 	
 	public void operation(int a,int b)
 	{
